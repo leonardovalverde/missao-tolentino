@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="40" viewBox="0 0 700 40">
+  <g id="menu-horizontal" transform="translate(-350 -2438)">
+    <g id="_1" data-name="1" transform="translate(120 1712)">
+      <g id="Elipse_1" data-name="Elipse 1" transform="translate(230 726)" fill="none" stroke="#331500" stroke-width="2">
+        <circle cx="20" cy="20" r="20" stroke="none"/>
+        <circle cx="20" cy="20" r="19" fill="none"/>
+      </g>
+      <text id="_1-2" data-name="1" transform="translate(246 751)" fill="#af7e2a" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g id="_2" data-name="2" transform="translate(450 1573)">
+      <g id="Elipse_2" data-name="Elipse 2" transform="translate(230 865)" fill="none" stroke="#331500" stroke-width="2">
+        <circle cx="20" cy="20" r="20" stroke="none"/>
+        <circle cx="20" cy="20" r="19" fill="none"/>
+      </g>
+      <text id="_2-2" data-name="2" transform="translate(246 890)" fill="#af7e2a" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+    </g>
+    <g id="_3" data-name="3" transform="translate(780 1434)">
+      <g id="Elipse_3" data-name="Elipse 3" transform="translate(230 1004)" fill="none" stroke="#331500" stroke-width="2">
+        <circle cx="20" cy="20" r="20" stroke="none"/>
+        <circle cx="20" cy="20" r="19" fill="none"/>
+      </g>
+      <text id="_3-2" data-name="3" transform="translate(246 1029)" fill="#af7e2a" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">3</tspan></text>
+    </g>
+    <line id="Linha_1" data-name="Linha 1" y2="240" transform="translate(985 2458.5) rotate(90)" fill="none" stroke="#331500" stroke-width="2"/>
+    <line id="Linha_2" data-name="Linha 2" y2="240" transform="translate(655 2458.5) rotate(90)" fill="none" stroke="#331500" stroke-width="2"/>
+  </g>
+</svg>
